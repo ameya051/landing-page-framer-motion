@@ -17,7 +17,6 @@ export const LogoTicker = () => {
           }
         </div>
       </div>
-
     </div>
   </div>;
 };
